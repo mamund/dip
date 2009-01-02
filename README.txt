@@ -4,3 +4,4 @@ Dive into Python work files
 initial creation of the repo
 added apihelper.py sample code
 added ch05.py
+added ch06.py

@@ -3,6 +3,7 @@ Dive into Python work files
 2008-01-03
 added ch07.py
 added ch08.py
+added ch09.py
 
 2008-01-02
 added ch06.py

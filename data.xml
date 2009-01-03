@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <data id="d1">this is some data</data>
+  <block>
+    <data id="d2">this is some more data in a block</data>
+    <data id="d3">data in a block is just data elements collected under a block element</data>
+  </block>
+</root>

@@ -2,6 +2,10 @@
 
 # toolbox
 def openAnything(source):
+  if source == '-':
+    import sys
+    return sys.stdin
+
   # try to open with urllib
   import urllib
   try:

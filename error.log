@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "stderr.py", line 9, in <module>
+    raise Exception, 'this error will be logged'
+Exception: this error will be logged

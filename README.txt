@@ -1,5 +1,8 @@
 Dive into Python work files
 
+2009-01-06
+added chapter 11
+
 2008-01-05
 added stderr.py
 added sampleargs.py

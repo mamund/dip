@@ -1,5 +1,7 @@
 Dive into Python work files
 
+CLOSED OUT WORK: 2011-03-10
+
 2009-01-06
 added chapter 11
 
